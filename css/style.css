@@ -186,7 +186,7 @@ section {
 }
 
 .publishing_packages .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
-    color: inherit;
+    color: white;
     background-color: #A64AC9;  
     border-color: #A64AC9; 
 }
@@ -215,7 +215,7 @@ section {
 
 .writer-wrapper .card-item:hover .card-header{
     background: #A64AC9;
-    color: inherit !important;
+    /* color: inherit !important; */
 }
 
 .card-item-wrapper {
