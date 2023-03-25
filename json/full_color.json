@@ -1,0 +1,270 @@
+[   
+    {
+        "Type": "(Basic)",
+        "Price": "$899",
+        "Month": "",
+        "Values": [{
+            "Inclusions": "Unlimited Full-Color Pictures\/ Artworks",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Cover Design",
+            "Value": "No"
+        },
+        {
+            "Inclusions": "Content Evaluation",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Editorial Assessment",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "ISBN",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "US Copyright",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "paperback copy"
+        },
+        {
+            "Inclusions": "hardback copy"
+        },
+        {
+            "Inclusions": "Author Interview",
+            "Value": "Add-On"
+        },
+        {
+            "Inclusions": "Email Marketing Services",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Website w\/ eCommerce",
+            "Value": "Add-On"
+        },
+        {
+            "Inclusions": "Amazon Author Page Set Up w\/ SEO",
+            "Value": "Add-On"
+        },
+        {
+            "Inclusions": "Social Media Fan Page Set-Up",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Author\/Book Feature on TWP Website",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Worldwide Distribution",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Author Royalty Page",
+            "Value": "Yes"
+        }]
+    },
+    {
+        "Type": "(Advanced)",
+        "Price": "$1,999",
+        "Month": "",
+        "Values": [{
+            "Inclusions": "Unlimited Full-Color Pictures\/ Artworks",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Cover Design",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Content Evaluation",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Editorial Assessment",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "ISBN",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "US Copyright",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "paperback copy"
+        },
+        {
+            "Inclusions": "hardback copy"
+        },
+        {
+            "Inclusions": "Author Interview",
+            "Value": "Add-On"
+        },
+        {
+            "Inclusions": "Email Marketing Services",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Website w\/ eCommerce",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Amazon Author Page Set Up w\/ SEO",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Social Media Fan Page Set-Up",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Author\/Book Feature on TWP Website",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Worldwide Distribution",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Author Royalty Page",
+            "Value": "Yes"
+        }]
+    },
+    {
+        "Type": "(Premium)",
+        "Price": "$2,400",
+        "Month": "",
+        "Values": [{
+            "Inclusions": "Unlimited Full-Color Pictures\/ Artworks",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Cover Design",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Content Evaluation",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Editorial Assessment",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "ISBN",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "US Copyright",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "paperback copy"
+        },
+        {
+            "Inclusions": "hardback copy"
+        },
+        {
+            "Inclusions": "Author Interview",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Email Marketing Services",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Website w\/ eCommerce",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Amazon Author Page Set Up w\/ SEO",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Social Media Fan Page Set-Up",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Author\/Book Feature on TWP Website",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Worldwide Distribution",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Author Royalty Page",
+            "Value": "Yes"
+        }]
+    },
+    {
+        "Type": "(Elite)",
+        "Price": "$4,899",
+        "Month": "",
+        "Values": [{
+            "Inclusions": "Unlimited Full-Color Pictures\/ Artworks",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Cover Design",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Content Evaluation",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Editorial Assessment",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "ISBN",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "US Copyright",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "paperback copy"
+        },
+        {
+            "Inclusions": "hardback copy"
+        },
+        {
+            "Inclusions": "Author Interview",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Email Marketing Services",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Website w\/ eCommerce",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Amazon Author Page Set Up w\/ SEO",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Social Media Fan Page Set-Up",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Author\/Book Feature on TWP Website",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Worldwide Distribution",
+            "Value": "Yes"
+        },
+        {
+            "Inclusions": "Author Royalty Page",
+            "Value": "Yes"
+        }]
+    }
+]
