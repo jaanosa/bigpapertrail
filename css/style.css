@@ -41,49 +41,49 @@ a {
 }
 
 .color-1 {
-    color: #F17A7E;
+    color: #FCCD04;
 }
 
 .color-2 {
-    color: #FFC94A;
+    color: #A64AC9;
 }
 
 .bg-1 {
-    background-color: #F17A7E;
+    background-color: #FCCD04;
 }
 
 .bg-reverse-1 {
-    border-color: #F17A7E;
-    color: #F17A7E;
+    border-color: #FCCD04;
+    color: #FCCD04;
     border-style: solid;
     border-width: 1px;
 }
 
 .bg-reverse-1:hover {
-    background-color: #F17A7E;
+    background-color: #FCCD04;
     color: white;
 }
 
 .btn.bg-1:hover {
-    color: #F17A7E !important;
-    border-color: #F17A7E !important;
+    color: #FCCD04 !important;
+    border-color: #FCCD04 !important;
 }
 
 .bg-2 {
-    background-color: #FFC94A;
+    background-color: #A64AC9;
 }
 
 .btn.bg-2:hover {
-    color: #FFC94A !important;
-    border-color: #FFC94A !important;
+    color: #A64AC9 !important;
+    border-color: #A64AC9 !important;
 }
 
 .bc-1 {
-    border-color: #F17A7E !important;
+    border-color: #FCCD04 !important;
 }
 
 .bc-2 {
-    border-color: #FFC94A !important;
+    border-color: #A64AC9 !important;
 }
 
 .navbar {
@@ -170,7 +170,7 @@ a {
 
 .banner-arrow a{
     font-size: 35px;
-    color: #F17A7E;
+    color: #FCCD04;
 }
 
 section {
@@ -182,13 +182,13 @@ section {
  {
     background-color: unset;
     color: inherit;
-    border-color: #FFC94A;
+    border-color: #A64AC9;
 }
 
 .publishing_packages .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
     color: inherit;
-    background-color: #FFC94A;  
-    border-color: #FFC94A; 
+    background-color: #A64AC9;  
+    border-color: #A64AC9; 
 }
 
 .card-item {
@@ -201,20 +201,20 @@ section {
 }
 
 .card-item:hover .card-item-wrapper{
-    border-color: #F17A7E !important;
+    border-color: #FCCD04 !important;
 }
 
 .card-item:hover .card-header{
-    background: #F17A7E;
+    background: #FCCD04;
     color: white;
 }
 
 .writer-wrapper .card-item:hover .card-item-wrapper{
-    border-color: #FFC94A !important;
+    border-color: #A64AC9 !important;
 }
 
 .writer-wrapper .card-item:hover .card-header{
-    background: #FFC94A;
+    background: #A64AC9;
     color: inherit !important;
 }
 
@@ -236,7 +236,7 @@ section {
 #table_full_color,
 #table_black_white
 {
-    border-color: #FFC94A;
+    border-color: #A64AC9;
     border-width: 1px;
     border-style: solid;
 }
@@ -256,7 +256,7 @@ section {
 }
 
 /* #table_pr {
-    border-color: #F17A7E;
+    border-color: #FCCD04;
     border-width: 1px;
     border-style: solid;
 } */
