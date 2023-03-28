@@ -380,7 +380,7 @@
                 <div class="modal-header p-0 position-relative">
                     <img class="ratio ratio-16x9 img-fluid" src="./svg/group-discussion-concept-illustration.svg"
                         alt="Big Paper Trail">
-                    <button type="button" class="btn-close position-absolute" data-bs-dismiss="modal"
+                    <button type="button" class="btn-close position-absolute" id= "modal-close" data-bs-dismiss="modal"
                         aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
@@ -389,7 +389,7 @@
                         <input type="email" class="form-control rounded-0 p-3" id="email"
                             placeholder="name@example.com">
                         <button type="button" class="btn bg-2 rounded-0 text-white fw-bold"
-                            data-bs-dismiss="modal">SUBMIT</button>
+                            onclick="sendEmail();">SUBMIT</button>
                     </div>
                 </div>
             </div>

@@ -237,3 +237,10 @@ const swiper = new Swiper('.swiper', {
 
 // Initialize AOS
 AOS.init();
+
+// Initialize send email function
+function sendEmail(){
+    var modal = document.getElementById('modal-close');
+    window.location = "mailto:jaanosa11@gmail.com?subject=Let's get started!";
+    modal.click();
+}
