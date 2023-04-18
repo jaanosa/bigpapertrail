@@ -65,8 +65,7 @@ fetchJSON().then(([full_color, black_white, pr]) => {
             `<div class="card-item p-2">
                 <div class="card-item-wrapper bc-2">
                     <div class="card-header p-3 bg-2 text-center text-white">
-                        <span class="fw-bold">${item.Type}</span>
-                        <h2>${item.Price}</h2>
+                        <h2>${item.Type}</h2>
                     </div>
                     <div class="card-item-body p-3">
                         <ul class="pb-3">`;
@@ -113,8 +112,7 @@ fetchJSON().then(([full_color, black_white, pr]) => {
             `<div class="card-item p-2">
                 <div class="card-item-wrapper bc-2">
                     <div class="card-header p-3 bg-2 text-center text-white">
-                        <span class="fw-bold">${item.Type}</span>
-                        <h2>${item.Price}</h2>
+                        <h2>${item.Type}</h2>
                     </div>
                     <div class="card-item-body p-3">
                         <ul class="pb-3">`;
@@ -161,8 +159,7 @@ fetchJSON().then(([full_color, black_white, pr]) => {
             `<div class="card-item p-2">
                 <div class="card-item-wrapper bc-1">
                     <div class="card-header p-3 bg-1 text-center text-white">
-                        <span class="fw-bold">${item.Type}</span>
-                        <h2>${item.Price}</h2>
+                        <h2>${item.Type}</h2>
                         <p>${item.Month}</p>
                     </div>
                     <div class="card-item-body p-3">`;
